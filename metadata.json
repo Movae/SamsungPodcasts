@@ -1,0 +1,6 @@
+{
+  "name": "Samsung Podcasts",
+  "description": "갤럭시 최적화 Samsung Podcasts 앱. Apple Podcasts 크롤링 원본 데이터, Media3 ExoPlayer 재생, Room DB 1초 복원, 백그라운드 재생, 구독 및 보관함, 알림 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
